@@ -10,6 +10,6 @@ export default defineConfig({
     // Enable React for the Algolia search component.
     react(),
   ],
-  site: `https://dev.pushbuddy.com`,
+  site: `https://dev.pushbuddy.app`,
   base: `/Website`,
 });
